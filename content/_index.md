@@ -1,4 +1,6 @@
 ---
 title: "Home"
 ---
-This is some info about me.
+
+_Jika kalian ingin menjadi pemimpin besar, menulislah seperti wartawan dan bicaralah seperti orator._
+— hos cokroaminoto
